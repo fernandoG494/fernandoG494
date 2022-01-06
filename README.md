@@ -1,5 +1,9 @@
-### Hi there 👋
-
+## Hi there, I'm Fernando García (a.k.a. Incuerd0) 👋
+### About myself
+### I'm currently learning
+### How to reach me
+### Some of my projects
+### Courses that I take
 <!--
 **fernandoG494/fernandoG494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
