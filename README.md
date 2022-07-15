@@ -20,7 +20,7 @@ _MERN Stack_
 
 _Other technologies_
 
-<img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript">
+<img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript" width="50%">
 
 ### How to reach me
  - 🌱 Personal email: lfgc851@gmail.com
