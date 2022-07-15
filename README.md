@@ -7,14 +7,24 @@ I'm a web developer with experience in front-end technologies, most accurate in 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
-### I'm currently learning
+I love to solve some code challenges on [CodeWars](https://www.codewars.com/).
+<img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
 
+### I'm currently learning
+_MERN Stack_
+
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775" alt="MongoDB" width="50%" heigth="50%">
+<img src="https://quish.tv/img/blog/81/what-are-reasons-learn-express.png" alt="ExpressJS" width="50%" heigth="50%">
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="ReactJS" width="50%" heigth="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node" width="50%" heigth="50%">
+
+_Other technologies_
+
+<img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript">
 
 ### How to reach me
-
-### Some of my projects
-
-### Courses that I take
+ - 🌱 Personal email: lfgc851@gmail.com
+ - 🔭 Work email: fernando_garcia@epam.com
 
 <!--
 **fernandoG494/fernandoG494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
