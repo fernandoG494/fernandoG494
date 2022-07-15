@@ -8,6 +8,7 @@ I'm a web developer with experience in front-end technologies, most accurate in 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
 I love to solve some code challenges on [CodeWars](https://www.codewars.com/).
+
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
 
 ### I'm currently learning
