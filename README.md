@@ -7,6 +7,8 @@ I'm a web developer with experience in front-end technologies, most accurate in 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
+HTB profile link: https://app.hackthebox.com/profile/20709
+
 I love to solve some code challenges on [CodeWars](https://www.codewars.com/).
 
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
@@ -23,9 +25,19 @@ _Other technologies_
 
 <img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript" width="50%">
 
+### My projects
+1. Simple backend API to retrive contacts (NodeJS, Express):
+https://github.com/fernandoG494/backend-challenge/tree/main/backend
+
+2. Pokedex version 2 (React, Material UI): https://github.com/fernandoG494/Pokedex_v2
+
+3. Actor image search (React, AntDesign): https://github.com/fernandoG494/actor-search
+
+`(... updating)`
+
 ### How to reach me
  - 🌱 Personal email: lfgc851@gmail.com
- - 🔭 Work email: fernando_garcia@epam.com
+ - 🔭 LinkedIn: https://www.linkedin.com/in/fernando-garc%C3%ADa-830a211b4/
 
 <!--
 **fernandoG494/fernandoG494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
