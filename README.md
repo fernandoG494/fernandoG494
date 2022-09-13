@@ -24,6 +24,8 @@ _MERN Stack_
 _Other technologies_
 
 <img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript" width="50%">
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="50%">
+<img src="https://unity.com/logo-unity-web.png" alt="Unity" width="50%">
 
 ### My projects
 1. Simple backend API to retrive contacts (NodeJS, Express):
