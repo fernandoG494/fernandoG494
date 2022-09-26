@@ -25,6 +25,7 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/).
 
 <img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript" width="50%">
 <img src="https://dsielab.net/wp-content/uploads/2020/05/angular-3-logo.png" alt="AngularJS">
+<img src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt="Laravel">
 <img src="https://firebase.google.com/images/social.png" alt="Firebase">
 
 ### My projects
