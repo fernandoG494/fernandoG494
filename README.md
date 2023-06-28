@@ -3,8 +3,7 @@
 ### About myself
 _"A white-hat hacker with the soul of a poet, Fernando is trained in the art of Computer Systems Engineering. After honing his craft in software development labs and cyber security groups, he's ready to pen his own legend. When he's not writing code, Fernando is writing—and publishing—poetry or reading the works of the great philosophers and writers from Milton to Bécquer. Whether it's JavaScript or a manuscript, Fernando is happy to write it."_
 
-I'm a web developer with experience in front-end technologies, most accurate in React and Vue frameworks. Beside that, I'm interested in cybersecurity and IA topics, part of the [HakTheBox](https://app.hackthebox.com/home) community and [TryHackMe!](https://tryhackme.com/dashboard) community.
-
+I'm a full-stack web developer principally focused in front-end technologies, most accurate in React and Angular frameworks. Beside that, I'm interested in cybersecurity and IA topics, part of the [HakTheBox](https://app.hackthebox.com/home) community and [TryHackMe!](https://tryhackme.com/dashboard) community.
 
 <img src="https://www.hackthebox.eu/badge/image/20709" alt="HackTheBox">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
@@ -19,7 +18,6 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="ReactJS" width="25%" heigth="25%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node" width="25%" heigth="50%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg" alt="Typescript" width="25%" heigth="25%">
-
 
 ## I'm currently learning
 <img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/angularjs-logo-600x394.png" alt="Angular" width="25%" heigth="25%">
