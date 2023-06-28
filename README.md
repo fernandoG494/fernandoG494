@@ -9,24 +9,22 @@ I'm a web developer with experience in front-end technologies, most accurate in 
 <img src="https://www.hackthebox.eu/badge/image/20709" alt="HackTheBox">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
-I love to solve some code challenges on [CodeWars](https://www.codewars.com/).
+I love to solve some code challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/darkogarcia3?hr_r=1).
 
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
 
+## More used technologies.
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775" alt="MongoDB" width="25%" heigth="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" width="25%" heigth="25%">
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="ReactJS" width="25%" heigth="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node" width="25%" heigth="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg" alt="Typescript" width="25%" heigth="25%">
+
+
 ## I'm currently learning
-### **MERN Stack**
-
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775" alt="MongoDB" width="50%" heigth="50%">
-<img src="https://quish.tv/img/blog/81/what-are-reasons-learn-express.png" alt="ExpressJS" width="50%" heigth="50%">
-<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="ReactJS" width="50%" heigth="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node" width="50%" heigth="50%">
-
-### **Other technologies**
-
-<img src="https://javadesde0.com/wp-content/uploads/typescript-1280x720.jpg" alt="Typescript" width="50%">
-<img src="https://dsielab.net/wp-content/uploads/2020/05/angular-3-logo.png" alt="AngularJS">
-<img src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt="Laravel">
-<img src="https://firebase.google.com/images/social.png" alt="Firebase">
+<img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/angularjs-logo-600x394.png" alt="Angular" width="25%" heigth="25%">
+<img src="https://static.wixstatic.com/media/832839_ebb4534fbdbc42c1bf98a5fc67c4a8d3~mv2.png/v1/fill/w_560,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/devops.png" alt="Angular" width="25%" heigth="25%">
+<img src="https://firebase.google.com/images/social.png" alt="Firebase" width="25%" heigth="25%">
 
 ### My projects
 1. Simple backend API to retrive contacts (NodeJS, Express):
