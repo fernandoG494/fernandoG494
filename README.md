@@ -24,14 +24,6 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 <img src="https://static.wixstatic.com/media/832839_ebb4534fbdbc42c1bf98a5fc67c4a8d3~mv2.png/v1/fill/w_560,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/devops.png" alt="Angular" width="25%" heigth="25%">
 <img src="https://firebase.google.com/images/social.png" alt="Firebase" width="25%" heigth="25%">
 
-### My projects
-1. Simple backend API to retrive contacts (NodeJS, Express):
-https://github.com/fernandoG494/backend-challenge/tree/main/backend
-
-2. Actor image search (React, AntDesign): https://github.com/fernandoG494/actor-search
-
-`(... updating)`
-
 ### How to reach me
  - 🌱 Personal email: lfgc851@gmail.com
  - 🔭 LinkedIn: https://www.linkedin.com/in/fernando-garc%C3%ADa-830a211b4/
