@@ -13,7 +13,7 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
 
 ## More used technologies.
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775" alt="MongoDB" width="25%" heigth="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="25%" heigth="25%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" width="25%" heigth="25%">
 <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="ReactJS" width="25%" heigth="25%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node" width="25%" heigth="50%">
@@ -21,8 +21,8 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 
 ## I'm currently learning
 <img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/angularjs-logo-600x394.png" alt="Angular" width="25%" heigth="25%">
-<img src="https://static.wixstatic.com/media/832839_ebb4534fbdbc42c1bf98a5fc67c4a8d3~mv2.png/v1/fill/w_560,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/devops.png" alt="Angular" width="25%" heigth="25%">
-<img src="https://firebase.google.com/images/social.png" alt="Firebase" width="25%" heigth="25%">
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS" width="25%" heigth="25%">
+<img src="https://kreately.in/wp-content/uploads/2022/07/springboot.png" alt="Spring Boot" width="25%" heigth="25%">
 
 ### How to reach me
  - 🌱 Personal email: lfgc851@gmail.com
