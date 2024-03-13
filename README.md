@@ -26,7 +26,7 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 
 ### How to reach me
  - 🌱 Personal email: lfgc851@gmail.com
- - 🔭 LinkedIn: https://www.linkedin.com/in/fernando-garc%C3%ADa-830a211b4/
+ - 🔭 LinkedIn: www.linkedin.com/in/lfgc
 
 <!--
 **fernandoG494/fernandoG494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
