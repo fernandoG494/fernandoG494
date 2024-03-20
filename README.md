@@ -1,4 +1,5 @@
-## Hi there, I'm Fernando García 👋
+## Hi there, I'm Fernando 👋
+![](https://komarev.com/ghpvc/?username=fernandoG494&style=flat-square&label=Profile+Views)
 
 ### About myself
 _"A white-hat hacker with the soul of a poet, Fernando is trained in the art of Computer Systems Engineering. After honing his craft in software development labs and cyber security groups, he's ready to pen his own legend. When he's not writing code, Fernando is writing—and publishing—poetry or reading the works of the great philosophers and writers from Milton to Bécquer. Whether it's JavaScript or a manuscript, Fernando is happy to write it."_
