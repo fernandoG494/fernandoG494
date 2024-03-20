@@ -1,5 +1,7 @@
 ## Hi there, I'm Fernando 👋
 ![](https://komarev.com/ghpvc/?username=fernandoG494&style=flat&label=Profile+Views)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lfgc851@gmail.com)](mailto:lfgc851@gmail.com)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lfgc)
 
 ### About myself
 _"A white-hat hacker with the soul of a poet, Fernando is trained in the art of Computer Systems Engineering. After honing his craft in software development labs and cyber security groups, he's ready to pen his own legend. When he's not writing code, Fernando is writing—and publishing—poetry or reading the works of the great philosophers and writers from Milton to Bécquer. Whether it's JavaScript or a manuscript, Fernando is happy to write it."_
