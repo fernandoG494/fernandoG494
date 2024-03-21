@@ -10,8 +10,7 @@ _"A white-hat hacker with the soul of a poet, Fernando is trained in the art of 
 
 I'm a full-stack web developer principally focused in front-end technologies, most accurate in React and Angular frameworks. Beside that, I'm interested in cybersecurity and IA topics, part of the [HackTheBox](https://app.hackthebox.com/home) community and [TryHackMe!](https://tryhackme.com/dashboard) community.
 
-<img src="https://www.hackthebox.eu/badge/image/20709" alt="HackTheBox">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
+<img src="https://www.hackthebox.eu/badge/image/20709" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
 I love to solve some code challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/darkogarcia3?hr_r=1).
 
