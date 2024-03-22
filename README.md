@@ -14,7 +14,7 @@ I'm a full-stack web developer principally focused in front-end technologies, mo
 
 I love to solve some code challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/darkogarcia3?hr_r=1).
 
-<img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars">
+<img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars" width="50%" height="50%" >
 
 ## More used technologies and tools.
 
