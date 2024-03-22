@@ -16,7 +16,7 @@ I love to solve some code challenges on [CodeWars](https://www.codewars.com/) an
 
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars" width="50%" height="50%" >
 
-## More used technologies and tools.
+## Most used technologies and tools.
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
