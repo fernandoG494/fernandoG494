@@ -12,9 +12,10 @@ I'm a full-stack web developer principally focused in front-end technologies, mo
 
 <img src="https://www.hackthebox.eu/badge/image/20709" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/Incuerd0.png" alt="TryHackMe">
 
-I love to solve some code challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/darkogarcia3?hr_r=1).
+I love to solve some code challenges on [CodeWars](https://www.codewars.com/), [HackerRank](https://www.hackerrank.com/darkogarcia3?hr_r=1) and [LeetCode](https://leetcode.com/fernandoG494/).
 
 <img src="https://www.codewars.com/users/fernandoG494/badges/large" alt="CodeWars" width="50%" height="50%" >
+![Leetcode Stats](https://leetcard.jacoblin.cool/fernandoG494)
 
 ## Most used technologies and tools.
 
